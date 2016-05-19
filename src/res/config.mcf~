@@ -1,0 +1,12 @@
+<image>
+    <composite>
+        <triangle x:100 y:180 height:200 width:200 color:yellow/>
+        <rectangle x:100 y:380 width:50 height:100 color:green/>
+        <rectangle x:250 y:380 width:50 height:100 color:green/>
+            <composite>
+                <circle x:100 y:10 width:200 height:200 color:blue/>
+                <circle x:150 y:50 width:35 height:35 color:green />
+                <circle x:210 y:50 width:35 height:35 color:red />
+            </composite>
+    </composite>
+</image>
